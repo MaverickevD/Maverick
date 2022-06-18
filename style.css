@@ -1,0 +1,16 @@
+body{
+    background-color: #000000;
+}
+
+a{
+    align-items: top;
+    display: flex;
+    justify-content: center;
+    text-decoration: line-through;
+    color: #c639f1;
+}
+.video{
+    display: flex;
+  align-items: center;
+  justify-content: center;
+}
